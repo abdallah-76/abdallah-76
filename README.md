@@ -76,7 +76,7 @@
 ### ☕ Applications Java
 | Projet | Technologies | Durée |
 |--------|-------------|-------|
-| [🍕 Pizza del Arte – Gestion de Pizzeria](https://github.com/abdallah-76) | Java, JavaFX, JUnit, Git | ~2 mois |
+| [🍕 Pizza del Arte – Gestion de Pizzeria]([https://github.com/abdallah-76](https://github.com/abdallah-76/pizza-del-arte)) | Java, JavaFX, JUnit, Git | ~2 mois |
 | [🎮 Multiplayer Pixel Coloring Game](https://github.com/abdallah-76) | Java, Swing, TCP Sockets | ~3 semaines |
 
 ### ⚙️ Systèmes & Réseau (C / Linux)
