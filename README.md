@@ -69,14 +69,13 @@
 ### 🌐 Web & Backend
 | Projet | Technologies | Durée |
 |--------|-------------|-------|
-| [🏄 Application de Réservation – Base Nautique](https://github.com/abdallah-76) | HTML, CSS, JS, PHP, MySQL | ~3 mois |
-| [📺 InfoScreen – Publication d'actualités](https://github.com/abdallah-76) | HTML, CSS, JS, PHP, SQL | ~6 semaines |
+| [🏄 Application de Réservation – Base Nautique](https://github.com/abdallah-76/base-nautique) | HTML, CSS, JS, PHP, MySQL | ~3 mois |
+| [📺 InfoScreen – Publication d'actualités](https://github.com/abdallah-76/infoscreen) | HTML, CSS, JS, PHP, SQL | ~6 semaines |
 | [❓ Jeu de Questions – Quiz éducatif](https://github.com/abdallah-76) | HTML, CSS, JavaScript | ~3 semaines |
-
 ### ☕ Applications Java
 | Projet | Technologies | Durée |
 |--------|-------------|-------|
-| [🍕 Pizza del Arte – Gestion de Pizzeria]((https://github.com/abdallah-76/pizza-del-arte)) | Java, JavaFX, JUnit, Git | ~2 mois |
+| [🍕 Pizza del Arte – Gestion de Pizzeria](https://github.com/abdallah-76/pizza-del-arte) | Java, JavaFX, JUnit, Git | ~2 mois |
 | [🎮 Multiplayer Pixel Coloring Game](https://github.com/abdallah-76) | Java, Swing, TCP Sockets | ~3 semaines |
 
 ### ⚙️ Systèmes & Réseau (C / Linux)
