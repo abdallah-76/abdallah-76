@@ -88,7 +88,7 @@
 ### 🐍 Python
 | Projet | Technologies | Durée |
 |--------|-------------|-------|
-| [📦 Jeu Sokoban](https://github.com/abdallah-76) | Python (POO) | ~3 mois |
+| [📦 Jeu Sokoban](https://github.com/abdallah-76/jeu-sokoban) | Python (POO) | ~3 mois |
 
 ---
 
