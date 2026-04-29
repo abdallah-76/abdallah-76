@@ -92,18 +92,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-76&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-76&theme=tokyonight&hide_border=true&locale=fr"/>
-</p>
-
----
-
 ## 🌍 Langues
 
 | Langue | Niveau |
